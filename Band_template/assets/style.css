@@ -183,6 +183,7 @@ span{
 .new-york, .paris, .san-fransisco{
     height: 60vh;
     width: 35vh;
+    margin: 10px;
     background-color: white;
 
     padding: 0 10px;
